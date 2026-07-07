@@ -144,19 +144,22 @@ The application predicts:
 
 ### 🏠 Home Page
 
-(Add Screenshot)
+(<img width="1877" height="898" alt="Screenshot 2026-07-07 110734" src="https://github.com/user-attachments/assets/e4cdc5de-b5a9-45a4-82bf-95d4fafcde16" />
+)
 
 ---
 
 ### 📋 Prediction Form
 
-(Add Screenshot)
+(<img width="1748" height="833" alt="Screenshot 2026-07-06 210517" src="https://github.com/user-attachments/assets/80787e3f-cf28-4f4b-90b8-28ee2d9bb5b6" />
+)
 
 ---
 
 ### 📊 Prediction Result
 
-(Add Screenshot)
+(<img width="1860" height="897" alt="Screenshot 2026-07-06 230819" src="https://github.com/user-attachments/assets/82c76773-b71b-40c2-87ab-ae99376816ab" />
+)
 
 ---
 
@@ -210,7 +213,9 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Developed By
 
-**Purandareswar T.**
+**T.Reddy Purandareswar**
+**G.Vishnu**
+**N.Thulasi Raman**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
