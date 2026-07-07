@@ -214,7 +214,9 @@ http://127.0.0.1:5000
 ## 👨‍💻 Developed By
 
 **T.Reddy Purandareswar**
+
 **G.Vishnu**
+
 **N.Thulasi Raman**
 
 B.Tech – Artificial Intelligence & Machine Learning
